@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
 <h3 align="center">A Mobile Engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on [OtakuBeats](https://github.com/OtakuBeats/OtakuBeats)
+- 🔭 I’m currently working on [OtakuBeats](https://github.com/OtakuBeats/OtakuBeats) and [StepFitness)(https://github.com/lewist13/YourSteps).
 
 - 🌱 I’m currently learning **all there is to know about native mobile development.**
 
