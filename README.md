@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [OtakuBeats](https://github.com/OtakuBeats/OtakuBeats) and [StepFitness](https://github.com/lewist13/YourSteps).
 
-- 🌱 I’m currently learning **all there is to know about native mobile development.**
+- 🌱 I’m currently learning **all there is to know about native mobile development, namely Swift and Kotlin for iOS/macOS and Android development respectively.**
 
 - 💬 Ask me about **Swift, SwiftUI, and UIKit.**
 
