@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lewistpro@gmail.com**
 
-- 📄 Know about my experiences [TaeVon Lewis (Resume 2023).pdf](https://github.com/lewist13/lewist13/files/11643400/TaeVon.Lewis.Ramp.iOS.Intern.pdf)
+- 📄 Know about my experiences [TaeVon Lewis (Resume2023).pdf](https://github.com/lewist13/lewist13/files/11643400/TaeVon.Lewis.Ramp.iOS.Intern.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
