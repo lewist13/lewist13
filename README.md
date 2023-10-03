@@ -27,3 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taevonlewis&" alt="taevonlewis" /></p>
 
+![](https://komarev.com/ghpvc/?username=taevonlewis)
