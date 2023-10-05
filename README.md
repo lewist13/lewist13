@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
 <h3 align="center">A Mobile iOS Engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on [OtakuBeats](https://github.com/OtakuBeats/OtakuBeats) and [YourSteps](https://github.com/taevonlewis/YourSteps). Soon to be Apple App Store apps!
+- 🔭 I’m currently working on iOS apps and studying data structures and algorithms.
 
 - 🌱 I’m currently learning **all there is to know about native mobile development, namely Swift and Kotlin for iOS/macOS and Android development respectively.**
 
 - 💬 Ask me about **Swift, SwiftUI, and UIKit.**
 
 - 📫 How to reach me **lewistpro@gmail.com**
-
-- 📄 Know about my experiences [TaeVon Lewis (Resume2023).pdf](https://github.com/taevonlewis/lewist13/files/11643400/TaeVon.Lewis.Ramp.iOS.Intern.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
