@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
 <h3 align="center">A Mobile iOS Engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on iOS apps and studying data structures and algorithms.
+- 🔭 I’m currently working on iOS apps and applying data structures and algorithms principles using Leetcode, HackerRank, GeeksforGeeks, and others.
 
-- 🌱 I’m currently learning **all there is to know about native mobile development, namely Swift and Kotlin for iOS/macOS and Android development respectively.**
+- 🌱 I’m currently learning **all there is to know about native mobile development, namely Swift for iOS applications.**
 
 - 💬 Ask me about **Swift, SwiftUI, and UIKit.**
 
