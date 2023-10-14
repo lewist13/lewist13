@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
-<h3 align="center">A Mobile iOS Engineer from New Jersey</h3>
+<h3 align="center">An iOS Engineer from New Jersey</h3>
 
 - 🔭 I’m currently working on iOS apps and applying data structures and algorithms principles using Leetcode, HackerRank, GeeksforGeeks, and other platforms.
 
