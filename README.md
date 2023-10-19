@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on iOS apps and applying data structures and algorithms principles using Leetcode.
 
-- 🌱 I’m currently learning **all there is to know about native mobile development, namely Swift for iOS applications.**
+- 🌱 I’m currently learning **native mobile development, namely Swift for iOS applications.**
 
 - 💬 Ask me about **Swift, SwiftUI, and UIKit.**
 
