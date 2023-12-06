@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
 <h3 align="center">An iOS Engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on an iOS app, JerseyTrack, and applying data structures and algorithms principles using Leetcode
+- 🔭 I’m currently working on an iOS app, JerseyTrack, and applying data structures and algorithms principles using Leetcode.
 
 - 🌱 I’m currently learning **native mobile development, namely Swift for iOS applications.**
 
