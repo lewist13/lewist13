@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an iOS app, JerseyTrack, and applying data structures and algorithms principles using Leetcode.
 
-- 🌱 I’m currently learning **native mobile development, namely Swift for iOS applications.**
+- 🌱 I’m currently learning **native mobile development, namely Swift for iOS and Kotlin for Android.**
 
 - 💬 Ask me about **Swift, SwiftUI, and UIKit.**
 
