@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TaeVon Lewis</h1>
 <h3 align="center">An iOS Engineer from New Jersey</h3>
 
-- 🔭 I’m currently working on multiple iOS apps, namely, SocialLinkup, and applying data structures and algorithms principles.
+- 🔭 I’m currently working on multiple iOS apps, namely, SocialLinkup. I'm also constantly applying data structures and algorithms principles on LeetCode or custom generated problems.
 
 - 🌱 I’m currently learning **native mobile development, namely Swift for iOS and Kotlin for Android.**
 
